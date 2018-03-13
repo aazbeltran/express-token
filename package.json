@@ -1,0 +1,34 @@
+{
+  "name": "@gealtec/express-token",
+  "version": "0.0.1",
+  "description": "Express authentication via token",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "token",
+    "session",
+    "auth",
+    "authentication",
+    "roles",
+    "authorization"
+  ],
+  "author": {
+    "name": "Alonso Alejandro Zúñiga Beltrán",
+    "email": "dev@aazbeltran.tech",
+    "url": "https://aazbeltran.tech"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gealtec/express-token.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gealtec/express-token/issues"
+  },
+  "dependencies": {
+    "mongoose": "^5.0.11",
+    "sequelize": "^4.37.4",
+    "uid-safe": "^2.1.5",
+    "useragent": "^2.3.0"
+  }
+}
